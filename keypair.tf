@@ -1,0 +1,4 @@
+resource "aws_key_pair" "kp" {
+  key_name   = "devops-assignment-4"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCjaWrOpbLEIop80TGdHG+dv32H2mRzFMN21qo/QvRJlOyQBZCi8i77m8GZW+bshwC7Dwah5iqbxclmbAWA1XMlP91DFGQeoCDQ9CVzsY+znDeO8fIJqGwBkTKUpvHkAFR4kCSWnxts2I3wVO0AYq/ry+f3ZeEn5figbu56nXYM4TclE1G8+9B56MIB7cvKx9yMI0qHVUMPnc1BQIDNmGbZ6gg19nH3DBu70u7KMXAyNkcGGBrRE/tj1ORCGHCEYAeljCrJEmnflocwdt29Xw1t6sDHDUUKNKIfCUsUZ3ODJ0CetrjeUn0posF+CKwdebtj+ZkIRpeFLb5AiDmBBMs6ShhnRrNlcy4GlJKK28xtBSdoaC9q2e4SCbhL3PqaO4jWrV+i6HCw71+s148O3BlilSBbFZpwidpjznOG/zVHT4/cX/X25QzghFTl+DeUzu7tPYg+7tcRCMrA8fC9n1cHZ6R/UGpdiF3fsPb3Hk9/O2bDNFlQso44rTuYjr2oink= zeus@zeus"
+}
